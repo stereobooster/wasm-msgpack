@@ -1,0 +1,16 @@
+{
+  "name": "wasm-msgpack",
+  "collaborators": [
+    "stereobooster"
+  ],
+  "description": "Experiment wasm-msgpack",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": "git@github.com:stereobooster/wasm-msgpack.git",
+  "files": [
+    "wasm_msgpack_bg.wasm",
+    "wasm_msgpack.d.ts"
+  ],
+  "main": "wasm_msgpack.js",
+  "types": "wasm_msgpack.d.ts"
+}
